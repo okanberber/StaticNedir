@@ -1,0 +1,7 @@
+C:\Users\okanb\Desktop\repos\StaticNedir\StaticNedir\StaticNedir\bin\Debug\StaticNedir.exe.config
+C:\Users\okanb\Desktop\repos\StaticNedir\StaticNedir\StaticNedir\bin\Debug\StaticNedir.exe
+C:\Users\okanb\Desktop\repos\StaticNedir\StaticNedir\StaticNedir\bin\Debug\StaticNedir.pdb
+C:\Users\okanb\Desktop\repos\StaticNedir\StaticNedir\StaticNedir\obj\Debug\StaticNedir.csproj.AssemblyReference.cache
+C:\Users\okanb\Desktop\repos\StaticNedir\StaticNedir\StaticNedir\obj\Debug\StaticNedir.csproj.CoreCompileInputs.cache
+C:\Users\okanb\Desktop\repos\StaticNedir\StaticNedir\StaticNedir\obj\Debug\StaticNedir.exe
+C:\Users\okanb\Desktop\repos\StaticNedir\StaticNedir\StaticNedir\obj\Debug\StaticNedir.pdb
